@@ -18,6 +18,7 @@ Detect geographic and customer-segment profitability risks
 
 Highlight margin erosion caused by discount strategies
 
+
 📌 Key Metrics Analyzed
 
 Total Actual Sales & Target Sales
