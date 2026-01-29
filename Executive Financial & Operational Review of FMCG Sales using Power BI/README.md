@@ -1,4 +1,6 @@
 #Executive Financial & Operational Review of FMCG Sales using Power BI
+
+
 📊 FMCG Sales Performance & Profitability Analysis – Executive Dashboard (Power BI)
 🔍 Project Overview
 
